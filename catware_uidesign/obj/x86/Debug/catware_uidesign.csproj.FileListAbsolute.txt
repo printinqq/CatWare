@@ -1,0 +1,14 @@
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\x86\Debug\catware_uidesign.csproj.AssemblyReference.cache
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\x86\Debug\catware_uidesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\x86\Debug\catware_uidesign.Properties.Resources.resources
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\x86\Debug\catware_uidesign.csproj.GenerateResource.cache
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\x86\Debug\catware_uidesign.csproj.CoreCompileInputs.cache
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\bin\x86\Debug\catware_uidesign.exe.config
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\bin\x86\Debug\catware_uidesign.exe
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\bin\x86\Debug\catware_uidesign.pdb
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\bin\x86\Debug\FastColoredTextBox.dll
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\bin\x86\Debug\FastColoredTextBox.xml
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\x86\Debug\catware_uidesign.csproj.CopyComplete
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\x86\Debug\catware_uidesign.exe
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\x86\Debug\catware_uidesign.pdb
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\x86\Debug\catware_uidesign.form1.resources

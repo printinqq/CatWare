@@ -1,0 +1,12 @@
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\bin\Debug\catware_uidesign.exe.config
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\bin\Debug\catware_uidesign.exe
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\bin\Debug\catware_uidesign.pdb
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\Debug\catware_uidesign.csproj.AssemblyReference.cache
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\Debug\catware_uidesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\Debug\catware_uidesign.Form1.resources
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\Debug\catware_uidesign.Properties.Resources.resources
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\Debug\catware_uidesign.csproj.GenerateResource.cache
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\Debug\catware_uidesign.csproj.CoreCompileInputs.cache
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\Debug\catware_uidesign.exe
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\Debug\catware_uidesign.pdb
+C:\Users\pirat\source\repos\catware_uidesign\catware_uidesign\obj\Debug\catware_uidesign.catware.resources
